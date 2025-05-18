@@ -37,5 +37,11 @@ It allows users to control multiple devices like **lights and fans** remotely us
    - **V1** (Fan Control)
 4. Copy the **Auth Token** sent to your email.
 
+   💻 How to Run
+Connect the circuit as described above.
+Open Arduino IDE and upload the code to your ESP8266.
+Open the Blynk app and press the play ▶️ button.
+Use the app buttons to control the devices.
+
 
 
